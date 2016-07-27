@@ -1,0 +1,3 @@
+add_lunch_combo au_lettuce-user
+add_lunch_combo au_lettuce-userdebug
+add_lunch_combo au_lettuce-eng
